@@ -1,4 +1,4 @@
-module github.com/unifuu/monggo
+module github.com/unifuu/oddish
 
 go 1.21.6
 
